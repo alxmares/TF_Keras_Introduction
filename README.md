@@ -2,6 +2,8 @@
 
 Welcome to our repository, dedicated to providing a comprehensive introduction to TensorFlow in conjunction with Keras. I aim to offer a clear and professional exploration of TensorFlow and Keras, covering a wide range of topics from the very basics to more advanced applications as artificial vision.
 
+![](assets/tk.jpg)
+
 ## Overview
 
 TensorFlow, developed by the Google Brain team, is an open-source machine learning framework that provides a flexible ecosystem of tools, libraries, and community resources. It allows for the easy development of machine learning models. Keras, on the other hand, is a high-level neural networks API, written in Python and capable of running on top of TensorFlow. It enables fast experimentation with deep neural networks, focusing on being user-friendly, modular, and extensible.
